@@ -1,10 +1,10 @@
-# I2C on 1 Arduinos
+# I2C on single Arduino
 
 Write 200 bytes from master to slave
 
 Slave Address is 24
 
-Using Timer and ISR
+Using Timer interrupt and ISR
 
 OCRx - Output Compare Register
 
