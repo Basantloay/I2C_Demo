@@ -6,5 +6,5 @@ Slave Address is 24
 
 ## Timing Diagram
 
-![GitHub Logo](/TimingDiagram.png)
-Format: ![Alt Text]()
+![Alt Text ](/TimingDiagram.png)
+
